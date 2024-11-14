@@ -381,6 +381,7 @@ Youtube-Playlist - https://www.youtube.com/watch?v=ZHl0WI32XkY&list=PLLUQRPAOwP1
 * [Free Industrial Control System (ICS) Cyber Security Training Course](https://instrumentationtools.com/free-industrial-control-system-ics-cyber-security-training-course)
 * [CISA Training](https://www.cisa.gov/ics-training-available-through-cisa) - Recommended
 * [CISA's Training Portal](https://ics-training.inl.gov/learn) - Recommended
+* [CyberPython](https://pythoncyber.go.ro) - Hands On Learning
   
 
 ## ICS Books
