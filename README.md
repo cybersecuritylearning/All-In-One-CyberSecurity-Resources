@@ -444,6 +444,7 @@ Youtube-Playlist - https://www.youtube.com/watch?v=ZHl0WI32XkY&list=PLLUQRPAOwP1
 * [Web-Security-Roadmap](https://medium.com/@rezaduty/web-penetration-testing-roadmap-4e7bb9edf23b)
 * [WebSecurity-Stuff](https://relevant.software/blog/penetration-testing-for-web-applications)
 * [Owasp-Juice-Shop](https://github.com/juice-shop/juice-shop) - Helps to learn and deal web vulnerabilities.
+* [CyberPython](https://pythoncyber.go.ro) - Hands On Learning
 
 # Exploit Development (Windows/Linux Both)
 
